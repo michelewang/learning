@@ -8,11 +8,11 @@ class App extends Component {
       <div className="about">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Michele Wang</h1>
+          <h1 className="App-title">Tim Tamm</h1>
         </header>
         <p className="App-intro">
           <h3> About Me </h3>
-          <p> Harvard College Class of 2021 </p>
+          <p> Harvard College Class of 2018 </p>
           <p> Studying Applied Math with a focus in Computer Science </p>
           <p> michelewang@college.harvard.edu </p>
           <a href = 'https://github.com/michelewang' class = "trans">
